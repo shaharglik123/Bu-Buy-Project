@@ -1,0 +1,8 @@
+{
+	"header": {
+		"target": "customer",
+		"action": "getall"
+	},
+	"body": {
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"header": {
+		"target": "customer",
+		"action": "searchbyname"
+	},
+    "body":{
+	  "firstname": "shlomi"
+        }
+}
