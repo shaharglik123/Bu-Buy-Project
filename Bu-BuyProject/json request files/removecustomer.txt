@@ -1,0 +1,9 @@
+{
+	"header": {
+		"target": "customer",
+		"action": "remove"
+	},
+    "body":{
+	  "id": 456
+        }
+}

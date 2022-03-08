@@ -1,0 +1,15 @@
+{
+	"header": {
+		"target": "customer",
+		"action": "update"
+	},
+    "body":{
+	  "id": 123,
+	  "password":"123",
+	  "firstname": "dudi",
+	  "lastname": "d",
+	  "age": 45,
+	  "country": "456",
+	  "products_own": null
+        }
+}

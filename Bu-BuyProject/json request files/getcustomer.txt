@@ -1,0 +1,9 @@
+{
+	"header": {
+		"target": "customer",
+		"action": "get"
+	},
+    "body":{
+	  "id": 456
+        }
+}

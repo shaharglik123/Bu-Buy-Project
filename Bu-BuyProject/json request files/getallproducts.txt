@@ -1,0 +1,8 @@
+{
+	"header": {
+		"target": "product",
+		"action": "getall"
+	},
+    "body":{
+        }
+}
