@@ -1,9 +1,0 @@
-{
-	"header": {
-		"target": "product",
-		"action": "remove"
-	},
-    "body":{
-	  "id": 456
-        }
-}

@@ -1,9 +1,0 @@
-{
-	"header": {
-		"target": "product",
-		"action": "searchbyname"
-	},
-    "body":{
-	   "name": "mobile"
-        }
-}

@@ -1,9 +1,0 @@
-{
-	"header": {
-		"target": "product",
-		"action": "searchbydescription"
-	},
-    "body":{
-	    "description": "A_mobile_shootergame"
-        }
-}

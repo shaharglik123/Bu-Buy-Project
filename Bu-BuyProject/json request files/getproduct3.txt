@@ -1,9 +1,0 @@
-{
-	"header": {
-		"target": "product",
-		"action": "get"
-	},
-    "body":{
-	  "id": 789
-        }
-}
